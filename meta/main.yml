@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: lighthouse
+  author: netology-kononov
+  description: Role for installation Lighthouse
+  company: netology-edu
+
+  license: MIT
+
+  min_ansible_version: "2.12"
+
+  platforms:
+    - name: EL
+      versions:
+        - all
+
+  galaxy_tags: []
+
+dependencies: []
