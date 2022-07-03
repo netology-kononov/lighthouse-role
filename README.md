@@ -11,10 +11,10 @@ No requirements.
 Role Variables
 --------------
 
-accept variables:
-"lighthouse_vcs" - Git location of Lighthouse application, default value is: "https://github.com/VKCOM/lighthouse.git"
-"lighthouse_dir" - Application folder location, default value is: "/usr/share/lighthouse"
-"lighthouse_access_log" - Nginx access logs name, default value is: "lighthouse"
+accept variables:  
+"lighthouse_vcs" - Git location of Lighthouse application, default value is: "https://github.com/VKCOM/lighthouse.git"  
+"lighthouse_dir" - Application folder location, default value is: "/usr/share/lighthouse"  
+"lighthouse_access_log" - Nginx access logs name, default value is: "lighthouse"  
 
 Dependencies
 ------------
